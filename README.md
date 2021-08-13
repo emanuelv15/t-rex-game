@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <br>
-  Quiz App
+  T-Rex Game
 </h1>
 
 <p align="center">By: <a href="http://github.com/emanuelv15">Emanuel Vitor Souza</a></p>

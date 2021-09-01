@@ -4,7 +4,7 @@
   T-Rex Game
 </h1>
 
-<p align="center">By: <a href="http://github.com/emanuelv15">Emanuel Vitor Souza</a></p>
+<p align="center">By: <a href="http://github.com/emanuelv15">Emanuel Vitor Souza</a> and <a href="https://github.com/PierreBoeno">Pierre Boeno</a></p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
